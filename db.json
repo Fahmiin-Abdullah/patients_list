@@ -10,20 +10,17 @@
       "sicknesses": [
         {
           "id": 1,
-          "name": "Type II Diabetes",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odio, libero?"
+          "name": "Type II Diabetes"
         },
         {
           "id": 2,
           "name": "Hypertension",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odio, libero?",
           "diastolic": 80,
           "systolic": 120
         },
         {
           "id": 3,
           "name": "Migraine",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odio, libero?",
           "severity": "Pretty severe"
         }
       ]
@@ -38,8 +35,7 @@
       "sicknesses": [
         {
           "id": 1,
-          "name": "Type I Diabetes",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odio, libero?"
+          "name": "Type I Diabetes"
         }
       ]
     },
@@ -53,8 +49,7 @@
       "sicknesses": [
         {
           "id": 1,
-          "name": "Cardiovascular Heart Disease",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odio, libero?"
+          "name": "Cardiovascular Heart Disease"
         }
       ]
     },
@@ -69,7 +64,6 @@
         {
           "id": 1,
           "name": "Migraine",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odio, libero?",
           "severity": "Moderate"
         }
       ]
@@ -84,20 +78,17 @@
       "sicknesses": [
         {
           "id": 1,
-          "name": "Type II Diabetes",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odio, libero?"
+          "name": "Type II Diabetes"
         },
         {
           "id": 2,
-          "name": "Severe kidney failure",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odio, libero?"
+          "name": "Severe kidney failure"
         }
       ],
       "medications": [
         {
           "id": 1,
           "name": "Insulin",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ullam vitae, id fugiat possimus praesentium excepturi accusantium mollitia officia. Incidunt, est.",
           "application_per_day": 2
         }
       ]
@@ -113,14 +104,12 @@
         {
           "id": 1,
           "name": "Hypertension",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odio, libero?",
           "diastolic": 80,
           "systolic": 120
         },
         {
           "id": 2,
           "name": "Migraine",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odio, libero?",
           "severity": "Pretty severe"
         }
       ]
@@ -145,7 +134,6 @@
         {
           "id": 1,
           "name": "Migraine",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odio, libero?",
           "severity": "Pretty mild"
         }
       ]
@@ -169,13 +157,11 @@
       "sicknesses": [
         {
           "id": 1,
-          "name": "Type II Diabetes",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odio, libero?"
+          "name": "Type II Diabetes"
         },
         {
           "id": 2,
           "name": "Hypertension",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odio, libero?",
           "diastolic": 90,
           "systolic": 140
         }
